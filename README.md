@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-<img align='right' src="./assets/fire.gif" width="400">
+<img align='right' src="./assets/fire.gif" width="200">
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -56,9 +56,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/deddy-gunawan/"><img src="https://img.shields.io/badge/-Deddy Gunawan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/deddy-gunawan/" target="_blank"><img src="https://img.shields.io/badge/-Deddy Gunawan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:deddyscareer@gmail.com"><img src="https://img.shields.io/badge/-deddyscareer@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/candrasujarwadi/"><img src="https://img.shields.io/badge/-@candrasujarwadi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/candrasujarwadi/" target="_blank"><img src="https://img.shields.io/badge/-@candrasujarwadi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a> -->
