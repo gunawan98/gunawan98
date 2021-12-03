@@ -1,4 +1,5 @@
 <img alt="Night Coding" src="https://tenor.com/view/totoro-superhero-hero-disguise-gif-8217359" align="right"/>
+<div class="tenor-gif-embed" data-postid="8217359" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/totoro-superhero-hero-disguise-gif-8217359">Totoro Superhero GIF</a>from <a href="https://tenor.com/search/totoro-gifs">Totoro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
