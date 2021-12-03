@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://github.com/gunawan98/gunawan98/blob/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://tenor.com/view/totoro-superhero-hero-disguise-gif-8217359" align="right"/>
 
 <img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
