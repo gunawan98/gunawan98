@@ -14,9 +14,9 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions! -->
 
-### 🛠 &nbsp;Tech Stack
+<img align='right' src="./assets/fire.gif" width="400">
 
-<img alt="Fire" src="./assets/fire.gif" align="right"/>
+### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
