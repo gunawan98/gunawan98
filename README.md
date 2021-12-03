@@ -1,8 +1,8 @@
-<img alt="Night Coding" src="https://tenor.com/view/totoro-superhero-hero-disguise-gif-8217359" align="right"/>
+<img alt="Totoro" src="./assets/totoro.gif" align="center"/>
 
-<img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Deddy</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<!-- ## 👋 &nbsp;Hey there! I'm Deddy -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
